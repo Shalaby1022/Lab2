@@ -1,4 +1,4 @@
-﻿namespace DayLec
+﻿namespace ArrayTask
 {
 
 
